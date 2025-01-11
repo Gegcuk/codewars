@@ -1,4 +1,4 @@
-package kuy8.grasshopperSimulation;
+package kyu8.grasshopperSimulation;
 
 public class GrassHopper {
 

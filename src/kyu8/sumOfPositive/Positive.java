@@ -1,4 +1,4 @@
-package kuy8.sumOfPositive;
+package kyu8.sumOfPositive;
 
 import java.util.Arrays;
 

@@ -1,10 +1,7 @@
-package kuy7.descendingOrder;
+package kyu7.descendingOrder;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.Collections;
-import java.util.stream.IntStream;
 
 public class DescendingOrder {
     public static int sortDesc(final int num) {

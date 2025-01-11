@@ -1,4 +1,4 @@
-package kuy8.removeFirstAndLastCharacters;
+package kyu8.removeFirstAndLastCharacters;
 
 public class RemoveChars {
     public static String remove(String str) {

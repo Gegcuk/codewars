@@ -1,4 +1,4 @@
-package kuy8.smallestIntegerFinder;
+package kyu8.smallestIntegerFinder;
 
 import java.util.stream.IntStream;
 

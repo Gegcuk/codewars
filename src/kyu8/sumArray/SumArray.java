@@ -1,4 +1,4 @@
-package kuy8.sumArray;
+package kyu8.sumArray;
 
 import java.util.Arrays;
 
