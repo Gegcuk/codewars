@@ -1,4 +1,4 @@
-package yesOrNo;
+package kuy8.yesOrNo;
 
 public class Solution {
     public static String boolToWord(boolean b)
